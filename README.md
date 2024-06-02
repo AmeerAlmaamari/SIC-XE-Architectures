@@ -29,7 +29,7 @@ This project implements assemblers for the Simplified Instructional Computer (SI
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-repository/sic-sicxe-assembler.git
-```
+   ```
 2. Navigate to the project directory:
    ```bash
    cd sic-sicxe-assembler
