@@ -1,4 +1,4 @@
-# SIC/SICXE Assembler Project
+# SIC/SICXE Assembler Programs
 
 ## Overview
 
@@ -67,6 +67,22 @@ Contains the following lists:
 - mplements functions `lookup`, `insert`, and `init` for managing the symbol table with extended features.
 - Reads input SIC/XE file, processes each line, and performs two-pass assembly.
 - Generates object code and handles output.
+
+## SIC and Extended SIC Grammar
+Here are the grammar rules used for the SIC and SIC/XE assemblers:
+
+### Basic SIC Grammar
+This image illustrates the basic grammar rules for the SIC assembler, including the structure of headers, bodies, and tails within SIC programs.
+
+![SIC Grammar](images/SIC Grammar.png)
+
+### SIC Grammar with Two Passes
+This image shows the grammar rules for the SIC assembler during the two-pass assembly process. It includes additional details on how statements and data are processed in each pass.
+
+![SIC Grammar](images/SIC Grammar 2 passes.png)
+
+
+
 
 
 
