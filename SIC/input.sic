@@ -1,0 +1,7 @@
+prog start 1000
+ff    sta ss
+    lda xx
+    rsub
+ss byte c'a'
+ss word 5
+END prog

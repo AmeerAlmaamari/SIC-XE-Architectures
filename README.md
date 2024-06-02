@@ -74,12 +74,12 @@ Here are the grammar rules used for the SIC and SIC/XE assemblers:
 ### Basic SIC Grammar
 This image illustrates the basic grammar rules for the SIC assembler, including the structure of headers, bodies, and tails within SIC programs.
 
-![SIC Grammar](images/SIC Grammar.png)
+![SIC Grammar](images/SIC_Grammar.png)
 
 ### SIC Grammar with Two Passes
 This image shows the grammar rules for the SIC assembler during the two-pass assembly process. It includes additional details on how statements and data are processed in each pass.
 
-![SIC Grammar](images/SIC Grammar 2 passes.png)
+![SIC Grammar](images/SIC_Grammar2_passes.png)
 
 
 
